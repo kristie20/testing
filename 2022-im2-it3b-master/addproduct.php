@@ -1,0 +1,5 @@
+<?php
+
+$category
+$name
+$Prodprice

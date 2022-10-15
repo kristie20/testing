@@ -1,0 +1,12 @@
+form{
+    background-color: rgb(197, 160, 115);
+    width: 50%;
+    margin: 0 auto;
+    border-collapse: collapse;
+    font-style: normal;
+    padding: 5px;
+}
+
+input{
+    width: 100%;
+}
