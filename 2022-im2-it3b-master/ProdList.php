@@ -8,7 +8,6 @@
     }
 </style>
 
-
 <h4>Product list</h4>
 
 <table>
